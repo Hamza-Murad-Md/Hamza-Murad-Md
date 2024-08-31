@@ -1,4 +1,4 @@
-- 👋 Hi, I’m HamzaMuradMd
+- 👋 Hi, I’m Hamza Murad 
 - @Hamza-Murad-Md
 - 🏥 I'm an Orthopedic Surgery Resident
 - interested in Musculoskeletal Radiology Research

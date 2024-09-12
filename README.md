@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Hamza Murad 
-- 🏥 I'm an Orthopedic Surgery Resident
-- interested in Musculoskeletal Radiology Research
-- 💞️ I’m looking to collaborate on spine and skeletal radiology research projects
+- 🏥 I'm an Orthopedic Surgery Resident, Interested in Musculoskeletal Radiology Research
+- 💞️ Looking for research collaboration
 - 📫 You can reach me via email at hamze.morad@mail.huji.ac.il
-- ⚡ Fun fact: K-wires at night, Plates in the morning, and Jupyter in between
+- ⚡ K-wires at night, Plates in the morning, and Jupyter in between
